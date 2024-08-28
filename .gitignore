@@ -1,0 +1,10 @@
+# Ignore all subdirectories
+*/
+
+# Ignore all files in the root directory
+/*
+
+# Except for the specified files
+!transcript_extractor.py
+!README.md
+!.gitignore
